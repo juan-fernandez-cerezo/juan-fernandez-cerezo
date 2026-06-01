@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
 <h1 align="center">Hi! 👋 I am Juan Fernandez✨ </h1> 
 
 🎓 **Computer Engineering & Business Analytics Student**  
@@ -28,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <h2>About me 😃</h2>
 <!--Intro start-->
-I'm a passionate and curious double-degree student at Universidad Francisco de Vitoria, driven by the intersection of technology, business,data, and innovation. I have a hybrid profile, combining technology and business. I consider myself a work-team person, proactive, open-minded, hard-work, humble... I'm always looking for new challenges that combine creativity, data, and impact. Feel free to contact me.
+👋 Hi, I'm a passionate and curious double-degree student at Universidad Francisco de Vitoria, driven by the intersection of technology, business,data, and innovation. I have a hybrid profile, combining technology and business. I consider myself a work-team person, proactive, open-minded, hard-work, humble... I'm always looking for new challenges that combine creativity, data, and impact. Feel free to contact me.
 
 <p align="left">
 
