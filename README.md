@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <p>During my free time I do multiple things for having fun: </p>
 <ul>
   <li>Build and drive drones</li>
+  <li>Finance/Investments</li>
   <li>Sports: Tennis, Rugby, Scocer, Cycling,...</li>
   <li>Travel</li>
   <li>Hang out with friends</li>
