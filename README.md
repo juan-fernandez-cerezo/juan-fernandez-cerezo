@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 📍 Based in Madrid, Spain  
 
 <p align="left">
-<a href="www.linkedin.com/in/juan-fdez-cerezo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="whttps://www.linkedin.com/in/juan-fdez-cerezo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:juanfercer@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
