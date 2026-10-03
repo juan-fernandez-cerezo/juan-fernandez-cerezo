@@ -27,7 +27,7 @@
 <p>
 🌍 Languages: Spanish (Native) and English (Fluent)
 
-💻📝 Several experiences in different startups from several sectors working as a data scientiest, software engineer and Technoly consultant. Currently working as a Digital Engineer at EY.
+💻📝 Several experiences in different startups from several sectors working as a data scientiest, software engineer and Technology consultant. 
 
 To know more about me look my <a href="juan-fdez-cerezo-portfolio.vercel.app">portfolio</a>
 <br>
